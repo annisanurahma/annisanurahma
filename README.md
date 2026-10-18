@@ -13,7 +13,7 @@
 
 ## About me <img align="right" src="img/koala.gif" width="110" alt="Pixel koala waving">
 
-Hi, I'm **Annisa**, a creative developer from Indonesia. I make websites that behave like places, where the interface is something you explore instead of just scroll.
+Hi, I'm **Annisa**, a creative developer from Indonesia. I make websites that behave like places: you arrive, the light comes up, and scrolling moves a camera through a world instead of down a page.
 
 Most of my work starts in **Blender**, where I model scenes by script so they can be rebuilt and tuned, and ends in the browser with **three.js**, **GLSL** and **TypeScript**. I also build the practical side: shops, booking engines and dashboards with **Next.js**.
 
